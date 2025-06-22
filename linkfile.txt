@@ -1,0 +1,45 @@
+23MCCE10
+
+Link to all the tinkercad circuits
+
+
+01. half wave rectifier
+
+https://www.tinkercad.com/things/fsANltD5eMl-q01halfwaverectifier?sharecode=Xnhn0FCsErjqKSTPap0cJgQx_3oIMUg-dXiWiN6njQ8
+
+02. full wave rectifier
+
+https://www.tinkercad.com/things/3ErH1yBt450-q02fullwave?sharecode=9IsH2ZGqqzjsVxvmI5Hzo_pcm2IhmyjRUopyIipofBE
+
+03. bridge rectifier
+
+https://www.tinkercad.com/things/2EWHO1HexmQ-q03bridgerectifier?sharecode=ReajZG9Q9HFFHWUK0hYdlbGsA-EgSlHi-XzHMpoQyjw
+
+04. capacitor filter
+
+https://www.tinkercad.com/things/dZGg8YklsP2-q04capacitorfilterfullwave?sharecode=GLep7rmsM0oebjuWOlkJE_SmRYv9k8GyaDhRXIbOY5s
+
+05. zener diode
+
+https://www.tinkercad.com/things/hYNIT7VoD6a-q05zener?sharecode=8cG4tdOCA6DXYEg9kWA00EN4EUxqZX4QCvq9pyqmP4g
+
+06. Common Emitter
+
+https://www.tinkercad.com/things/8Owt5QZpo1o-q06ce?sharecode=fA4N27KrNUPKu3kd0mnS83LBnpzO7iHO03C2Tl0YHkQ
+
+07. Common Base
+
+https://www.tinkercad.com/things/kpu4yrVMZwJ-q07cb?sharecode=NYD2DqEGa5xddb31s8D8e2mOeIw9r5UF6zK1QO3r2WI
+
+08. Common Collector
+
+https://www.tinkercad.com/things/6uuLTI7h8q6-q08cc?sharecode=8fWTtOPTMdxZgVWfS_jQq7GpK-F51ZfibfKnKMJDHGc
+
+09. switch
+
+https://www.tinkercad.com/things/afdrIR3MbcJ-q09switch?sharecode=lFS4MFM_cjF9vzT03oUY3FdI9tMfv63TKET9UCKUlis
+
+10. amplifier
+
+https://www.tinkercad.com/things/kwXXFy6OOFX-q10amplifier?sharecode=yg8cncN-qrRuNWpq3ewxaJ3QihvFqTz7uE0N-C_WtLw
+
